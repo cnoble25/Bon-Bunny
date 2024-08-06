@@ -1,0 +1,653 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8178005782228118151
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BGMs/EarthBGM
+  m_EditorClassIdentifier: 
+  Path: event:/BGMs/EarthBGM
+  Guid:
+    Data1: 1289553755
+    Data2: 1095649743
+    Data3: -1869671295
+    Data4: 1092452716
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 36571
+--- !u!114 &-7677479749790278454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/RocketThruster
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/RocketThruster
+  Guid:
+    Data1: 1351354119
+    Data2: 1259990249
+    Data3: 809697198
+    Data4: 1998024420
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 10392
+--- !u!114 &-6506276828098692132
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Victory
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Victory
+  Guid:
+    Data1: 118378791
+    Data2: 1334164431
+    Data3: -1703522170
+    Data4: 1457110259
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-5426218067802794018
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BGMs/AuroraBGM
+  m_EditorClassIdentifier: 
+  Path: event:/BGMs/AuroraBGM
+  Guid:
+    Data1: -888306206
+    Data2: 1197650727
+    Data3: 285678738
+    Data4: 860514434
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 82285
+--- !u!114 &-4869017861762214625
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BGMs/SunsetBGM
+  m_EditorClassIdentifier: 
+  Path: event:/BGMs/SunsetBGM
+  Guid:
+    Data1: 1682728938
+    Data2: 1115339833
+    Data3: -731182921
+    Data4: 475079621
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 44307
+--- !u!114 &-4256809261363983751
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/SatelliteBeep
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/SatelliteBeep
+  Guid:
+    Data1: 1798059379
+    Data2: 1155658363
+    Data3: 127923626
+    Data4: 1124938041
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1500
+--- !u!114 &-3748093670062421742
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Thunder
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Thunder
+  Guid:
+    Data1: -331798726
+    Data2: 1283232304
+    Data3: -255957327
+    Data4: 157959237
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-3388848812114627790
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BGMs/SpaceBGM
+  m_EditorClassIdentifier: 
+  Path: event:/BGMs/SpaceBGM
+  Guid:
+    Data1: 642486409
+    Data2: 1198561115
+    Data3: -1775908973
+    Data4: -269846781
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 54661
+--- !u!114 &-2847316716876373422
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/BalloonThrust
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/BalloonThrust
+  Guid:
+    Data1: 114502918
+    Data2: 1300320720
+    Data3: 1658891662
+    Data4: 1058802448
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 9714
+--- !u!114 &-2825944413793279028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/BalloonBounceSqueak
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/BalloonBounceSqueak
+  Guid:
+    Data1: 579494189
+    Data2: 1319642806
+    Data3: 117138830
+    Data4: 692475563
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-2475071356028589341
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/MenuClick
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/MenuClick
+  Guid:
+    Data1: 388357909
+    Data2: 1076789872
+    Data3: 347778994
+    Data4: -2028021343
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-1565024144309878412
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMODBank/Desktop/Master.strings.bank
+  Name: Master.strings
+  StudioPath: bank:/Master.strings
+  lastModified: 638580414562559311
+  FileSizes:
+  - Name: Desktop
+    Value: 1644
+  Exists: 1
+--- !u!114 &-855881215764567938
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Airplane
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Airplane
+  Guid:
+    Data1: -1625859451
+    Data2: 1286944544
+    Data3: 1986585216
+    Data4: 563701704
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &-673285731527359017
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/FMODBank/Desktop/Master.bank
+  Name: Master
+  StudioPath: bank:/Master
+  lastModified: 638580414562519263
+  FileSizes:
+  - Name: Desktop
+    Value: 5360576
+  Exists: 1
+--- !u!114 &-383629161396152184
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Buzz
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Buzz
+  Guid:
+    Data1: 874012238
+    Data2: 1310905814
+    Data3: 699912337
+    Data4: 459407143
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: -1565024144309878412}
+  - {fileID: -673285731527359017}
+  EditorEvents:
+  - {fileID: -2847316716876373422}
+  - {fileID: -7677479749790278454}
+  - {fileID: -3748093670062421742}
+  - {fileID: -4256809261363983751}
+  - {fileID: 6730341351921140211}
+  - {fileID: -3388848812114627790}
+  - {fileID: 532685396884538936}
+  - {fileID: 1754315850211594036}
+  - {fileID: 6079445379111078120}
+  - {fileID: -5426218067802794018}
+  - {fileID: -6506276828098692132}
+  - {fileID: 5829868059527016686}
+  - {fileID: -383629161396152184}
+  - {fileID: 1484975285369648656}
+  - {fileID: 484897750562971978}
+  - {fileID: -2825944413793279028}
+  - {fileID: -4869017861762214625}
+  - {fileID: -2475071356028589341}
+  - {fileID: -855881215764567938}
+  - {fileID: 874092000077778114}
+  - {fileID: -8178005782228118151}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -673285731527359017}
+  StringsBanks:
+  - {fileID: -1565024144309878412}
+  cacheTime: 638580414562559311
+  cacheVersion: 131619
+--- !u!114 &484897750562971978
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/BalloonPop
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/BalloonPop
+  Guid:
+    Data1: 1037135121
+    Data2: 1275585002
+    Data3: -1494608733
+    Data4: 572057120
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &532685396884538936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Woosh
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Woosh
+  Guid:
+    Data1: -329862004
+    Data2: 1194293920
+    Data3: 1327856513
+    Data4: 1723846529
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &874092000077778114
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/AirUp
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/AirUp
+  Guid:
+    Data1: -988408167
+    Data2: 1183996406
+    Data3: 2143591058
+    Data4: 1792256291
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &1484975285369648656
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BGMs/MesosphereBGM
+  m_EditorClassIdentifier: 
+  Path: event:/BGMs/MesosphereBGM
+  Guid:
+    Data1: -596849392
+    Data2: 1306212229
+    Data3: -1979811697
+    Data4: 112798032
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 68181
+--- !u!114 &1754315850211594036
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BGMs/TitleBGM
+  m_EditorClassIdentifier: 
+  Path: event:/BGMs/TitleBGM
+  Guid:
+    Data1: 1539624374
+    Data2: 1102293420
+    Data3: -1538522455
+    Data4: -215362183
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 10646
+--- !u!114 &5829868059527016686
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Chirp
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Chirp
+  Guid:
+    Data1: -1186708699
+    Data2: 1267694125
+    Data3: 455885726
+    Data4: -573034796
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 0
+--- !u!114 &6079445379111078120
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/BGMs/CloudyBGM
+  m_EditorClassIdentifier: 
+  Path: event:/BGMs/CloudyBGM
+  Guid:
+    Data1: 1354352338
+    Data2: 1147532532
+    Data3: -1614725993
+    Data4: -1634064106
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 57000
+--- !u!114 &6730341351921140211
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/SFX/Burning
+  m_EditorClassIdentifier: 
+  Path: event:/SFX/Burning
+  Guid:
+    Data1: 865688967
+    Data2: 1108330150
+    Data3: 1898518182
+    Data4: -782798748
+  Banks:
+  - {fileID: -673285731527359017}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 21321
